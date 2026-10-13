@@ -1,0 +1,60 @@
+{
+  "bookstores": [
+    {
+      "id": 1,
+      "name": "Fantasy Bookstore",
+      "specialty": "fantasy",
+      "minimumCopies": 5
+    },
+    {
+      "id": 2,
+      "name": "Science Fiction Bookstore",
+      "specialty": "science_fiction",
+      "minimumCopies": 4
+    },
+    {
+      "id": 3,
+      "name": "History Bookstore",
+      "specialty": "history",
+      "minimumCopies": 6
+    },
+    {
+      "id": 4,
+      "name": "Mystery Bookstore",
+      "specialty": "mystery",
+      "minimumCopies": 3
+    },
+    {
+      "id": 5,
+      "name": "Romance Bookstore",
+      "specialty": "romance",
+      "minimumCopies": 4
+    },
+    {
+      "id": 6,
+      "name": "Science Bookstore",
+      "specialty": "science",
+      "minimumCopies": 5
+    }
+  ],
+  "book-stocks": [
+    {
+      "id": 1,
+      "bookstoreId": 1,
+      "bookKey": "/works/OL27448W",
+      "bookTitle": "The Lord of the Rings",
+      "authorName": "J. R. R. Tolkien",
+      "copies": 2,
+      "receivedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "bookstoreId": 1,
+      "bookKey": "/works/OL27448W",
+      "bookTitle": "The Lord of the Rings",
+      "authorName": "J. R. R. Tolkien",
+      "copies": 2,
+      "receivedAt": "2026-10-02T10:00:00Z"
+    }
+  ]
+}

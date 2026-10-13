@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Plataforma de inventario de Barnes & Noble"
+  },
+  "option": {
+    "overview": "Resumen de librerías",
+    "receive": "Recibir libros"
+  },
+  "home": {
+    "title": "Resumen de librerías",
+    "content": "Supervisa la disponibilidad de libros en nuestras tiendas",
+    "inventory": "Inventario de tiendas"
+  },
+  "page-not-found": {
+    "title": "Página no encontrada",
+    "content": "No se encontró la ruta {{path}}.",
+    "go-home": "Ir al resumen de librerías"
+  },
+  "bookstores": {
+    "title": "Resumen de librerías",
+    "subtitle": "Supervisa la disponibilidad de libros en nuestras tiendas",
+    "inventory": "Inventario de tiendas",
+    "copies": "Copias",
+    "available-titles": "Títulos disponibles",
+    "replenishment-required": "Reposición requerida",
+    "empty": "Vacío"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "load-error": "No se pudieron cargar los datos.",
+    "retry": "Reintentar",
+    "no-data": "No hay datos disponibles."
+  },
+  "footer": {
+    "developed-by": "Desarrollado por"
+  }
+}

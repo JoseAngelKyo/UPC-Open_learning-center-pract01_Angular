@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Barnes & Noble Inventory Platform"
+  },
+  "option": {
+    "overview": "Bookstore Overview",
+    "receive": "Receive Books"
+  },
+  "home": {
+    "title": "Bookstore Overview",
+    "content": "Monitor Book Availability Across Our Stores",
+    "inventory": "Store Inventory"
+  },
+  "page-not-found": {
+    "title": "Page Not Found",
+    "content": "The path {{path}} was not found.",
+    "go-home": "Go to Bookstore Overview"
+  },
+  "bookstores": {
+    "title": "Bookstore Overview",
+    "subtitle": "Monitor Book Availability Across Our Stores",
+    "inventory": "Store Inventory",
+    "copies": "Copies",
+    "available-titles": "Available Titles",
+    "replenishment-required": "Replenishment Required",
+    "empty": "Empty"
+  },
+  "common": {
+    "loading": "Loading...",
+    "load-error": "Unable to load data.",
+    "retry": "Try again",
+    "no-data": "No data available."
+  },
+  "footer": {
+    "developed-by": "Developed by"
+  }
+}
